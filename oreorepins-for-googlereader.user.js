@@ -8,7 +8,7 @@
 
 (function(window) {
 
-if (!FullFeed || FullFeed.preFilters) return;
+if (!FullFeed || FullFeed.addPreFilter) return;
 
 var pin_server = GM_getValue("server");
 if (!pin_server) {
