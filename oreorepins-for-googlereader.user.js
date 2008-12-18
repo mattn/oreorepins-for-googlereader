@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           OreOrePins for GoogleReader
-// @namespace      tag:mattn.jp@gmail.com,2008-12-17:/coderepos.org
+// @namespace      http://mattn.kaoriya.net/
 // @description    OreOrePins for GoogleReader
 // @include        http://www.google.tld/reader/*
 // @include        https://www.google.tld/reader/*
